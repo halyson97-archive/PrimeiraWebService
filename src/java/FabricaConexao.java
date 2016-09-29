@@ -5,7 +5,7 @@ import java.sql.SQLException;
 public class FabricaConexao {
 
     private static String usuario="hall";
-    private static String senha="123";
+    private static String senha="";
     private static String banco="fazendaws";
     private static String ip="localhost";
     private static String driver="com.mysql.jdbc.Driver";
